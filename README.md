@@ -30,8 +30,8 @@ Linux CLI, Docker, Git, GitHub를 활용하여 개발 워크스테이션 환경�
 - [x] Git 설치 및 사용자 설정
 - [x] GitHub CLI 설치 및 로그인
 - [x] Git 저장소 초기화 및 main 브랜치 설정
-- [ ] README 작성 및 GitHub 업로드
-- [ ] VS Code 연동 확인
+- [x] README 작성 및 GitHub 업로드
+- [x] VS Code 연동 확인
 
 ## 5. Docker 실습 결과
 
